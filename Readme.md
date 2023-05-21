@@ -1,2 +1,3 @@
 # Summify
-A AI based article summurization tool 
+a AI based article summurization tool 
+<img src="src\assets\ezgif.com-gif-maker.gif">
